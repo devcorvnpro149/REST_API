@@ -1,0 +1,12 @@
+{
+  "device": [
+    {
+      "family": "Switch",
+      "managementIpAddress": "10.10.0.4",
+      "macAddress": "80:00:40:5e:af",
+      "type": "Switch 2960",
+      "status": "UP",
+      "id": 1
+    }
+  ]
+}
